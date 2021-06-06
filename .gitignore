@@ -1,0 +1,8 @@
+# node packages
+node_modules
+
+# all JS files
+**/*.js
+
+# environment file
+**/.env
